@@ -1,0 +1,154 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "Image",
+            "url": "https://reevotech.com/wp-content/uploads/2025/06/TEMP_sweets.gif"
+        },
+        {
+            "type": "TextBlock",
+            "text": "Something Sweet is Spinning Your Way! 🍬",
+            "weight": "Bolder",
+            "size": "Medium"
+        },
+        {
+            "type": "RichTextBlock",
+            "inlines": [
+                {
+                    "type": "TextRun",
+                    "text": "Mark your calendars! On July 9, 2025, REEVO drops its sweetest treat yet: Sweets & Spins!\n\n🎡 This 5x3 candy-themed slot is bursting with vibrant visuals, delicious gameplay, and our fan-favorite Bonus Wheel, a delightful twist on classic game-show excitement.\n\n"
+                }
+            ]
+        },
+        {
+            "type": "Table",
+            "columns": [
+                {
+                    "width": "auto"
+                },
+                {
+                    "width": "auto"
+                },
+                {
+                    "width": "auto"
+                },
+                {
+                    "width": "stretch"
+                } 
+            ],
+            "rows": [
+                {
+                    "type": "TableRow",
+                    "cells": [
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "RTP", "weight": "Bolder" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "SkinID", "weight": "Bolder" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "JsonBOG ID", "weight": "Bolder" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "Identifier", "weight": "Bolder" }]
+                        }
+                    ]
+                },
+                {
+                    "type": "TableRow",
+                    "cells": [
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "95.64%" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "66919" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "31087" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "rl-sweets-spins" }]
+                        }
+                    ]
+                },
+                {
+                    "type": "TableRow",
+                    "cells": [
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "94.01%" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "66920" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "31088" }]
+                        }
+                        ,
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "rl-sweets-spins-94" }]
+                        }
+                    ]
+                },
+                {
+                    "type": "TableRow",
+                    "cells": [
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "92.00%" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "66921" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "31089" }]
+                        },
+                        {
+                            "type": "TableCell", "items": [{ "type": "TextBlock", "text": "rl-sweets-spins-92" }]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "RichTextBlock",
+            "inlines": [
+                
+                {
+                    "type": "TextRun",
+                    "text": "\nJurisdiction:",
+                    "weight": "Bolder"
+                },
+                {
+                    "type": "TextRun",
+                    "text": "\nMT, RO, BG, IT\n"
+                },
+                {
+                    "type": "TextRun",
+                    "text": "\nIn case you do not have an account/access in our client hub yet, you may register here: https://reevotech.com/client-hub-register/"
+                },
+                {
+                    "type": "TextRun",
+                    "text": "\n\nWhether players are craving fun or looking to hit those sweet wins, this game is built to satisfy."
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "Action.OpenUrl",
+            "title": "Download Assets",
+            "url": "https://drive.google.com/drive/folders/1BkFCw6OEk2FQmRpWvOZv5idtEPk1-_w0?usp=drive_link"
+        },
+        {
+            "type": "Action.OpenUrl",
+            "title": "Play Now",
+            "url": "https://stage-lobby.reevotech.com/playnow/943515"
+        },
+        {
+            "type": "Action.OpenUrl",
+            "title": "ClientHub",
+            "url": "https://reevotech.com/client-hub/sweet-and-spins/"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.6"
+}
